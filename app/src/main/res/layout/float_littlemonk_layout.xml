@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dfv="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/monk_relative_root"
+        android:layout_width="90dp"
+        android:layout_height="80dp"
+        android:background="#6666"
+
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_return"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:text="点击返回" />
+        <View
+            android:layout_width="match_parent"
+            android:background="#ffff"
+            android:layout_height="1dp"/>
+        <TextView
+            android:id="@+id/tv_close"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:text="关闭" />
+    </LinearLayout>
+
+
+</FrameLayout>
