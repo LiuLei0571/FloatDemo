@@ -101,7 +101,7 @@
 ![这里写图片描述](http://img.blog.csdn.net/20180223090635302?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzY1MTQwNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 ###最后
 根据版本迭代趋势，我还是建议大家遵循Google大法的开发规则，老老实实的申请权限。(部分图片来源于网络）
-Demo地址是：https://github.com/LiuLei0571/FloatDemo.git，麻烦各位看官给个小星星==
+Demo地址是：https://github.com/LiuLei0571/FloatDemo.git
 
 
  
